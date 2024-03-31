@@ -1,0 +1,52 @@
+
+*{
+    /* jnb 3d h kia sara acha g hn g output dhika */
+   border-radius: 2px;
+    box-shadow: 5px;
+}.header{
+    background-color: aqua;
+    height: 50px;
+    width: 97%;
+  padding-left: 19px;
+
+
+}
+.nav{
+    background-color: chartreuse;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.sec{
+    background-color: blueviolet;
+    padding-left: 10px;
+    width: 65%;
+    float: left;
+    margin-top: 10px;
+}
+.sect{
+    background-color: orange;
+    padding-left: 100px;
+    margin-right: 9px;
+    height: 100px;
+   
+   
+}
+.aabb{
+    background-color: darkorchid;
+    height:352px ;
+   margin-left: 10px;
+    padding:10px;
+    float: left;
+    width: 30%;
+    margin-top: 10px;
+}
+.footer{
+    background-color: skyblue;
+    height: 50px;
+    width: 97%;
+  padding-left: 21px;
+  float: left;
+  margin-top: 5px;
+}
